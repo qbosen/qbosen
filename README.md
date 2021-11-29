@@ -76,10 +76,5 @@ Mac                      32 hrs 7 mins       ███████████�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/qbosen/qbosen/main/charts/bar_graph.png) 
-
-
  Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
