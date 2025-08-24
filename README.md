@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 510.1 kB Used in GitHub's Storage 
- > 
-> 🏆 274 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 🌞 Morning                4641 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 🌆 Daytime                9494 commits        ███████████░░░░░░░░░░░░░░   42.20 % 
 🌃 Evening                5176 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌙 Night                  3186 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌙 Night                  3187 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -49,7 +47,7 @@ Wednesday                3827 commits        ████░░░░░░░�
 Thursday                 3930 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 Friday                   4504 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 Saturday                 1212 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Sunday                   1846 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Sunday                   1847 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 
 
@@ -69,5 +67,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/08/2025 16:43:45 UTC
+ Last Updated on 24/08/2025 16:45:04 UTC
 <!--END_SECTION:waka-->
